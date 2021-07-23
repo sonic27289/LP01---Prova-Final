@@ -1,0 +1,61 @@
+exec: 
+
+Digite as horas:
+17
+Digite os minutos:
+00
+Digite os segundos:
+40
+Digite o dia:
+23
+Digite o mes:
+07
+Digite o ano:
+2021
+Digite o Nome do Paciente:
+Gustavo
+Digite o Nome do Medico:
+Barbosa
+ 
+Valores de P1:
+
+23/7/2021
+17:0:40
+Nome do Paciente: Gustavo
+Nome do Medico: Barbosa
+ 
+Digite o dia: 20 
+Digite o mes: 07
+Digite o ano: 2023 
+Digite as horas: 16
+Digite os minutos: 50
+Digite os segundos: 40
+Digite o nome do paciente: Gabriel
+Digite o nome do medico: Kenji
+ 
+Valores de P2:
+
+23/7/2023
+16:50:40
+Nome do Paciente: Gabriel
+Nome do Medico: Kenji
+ 
+Alterando o Valor de P1
+
+Digite o dia: 23
+Digite o mes: 10
+Digite o ano: 2030 
+Digite as horas: 15
+Digite os minutos: 40
+Digite os segundos: 30
+Digite o nome do paciente: Gustavo
+Digite o nome do medico: Tuler
+ 
+Valores Alterados de P1:
+
+23/10/2030
+15:40:30
+Nome do Paciente: Gustavo
+Nome do Medico: Tuler
+ 
+Quantidade de consultas de construtores.: 2
